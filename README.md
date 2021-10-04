@@ -13,7 +13,7 @@
   </a>
 
   <a href="https://instagram.com//rikkyarisendi" target="_blank">
-    <img align="center" alt="Rikky Arisendi | Instagram" width="20px" src="https://pngkit.com%2Fpng%2Ffull%2F1-13187_instagram-logo-new-vector-eps-free-download-logo.png&f=1&nofb=1" />
+    <img align="center" alt="Rikky Arisendi | Instagram" width="20px" src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" />
   </a>
  </div>
 
