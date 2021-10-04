@@ -34,18 +34,9 @@
 
 ![Rikky Arisendi Most Used Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rikkyarisendi&layout=compact&theme=buefy)
 
-<br>
+
 ### Find Me On
 
-<div align="center">
- <a href="https://www.linkedin.com/in/rikkyarisendi/" target="_blank">
-   <img align="center" alt="Rikky Arisendi | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
-  
-  <a href="https://facebook.com/rikkyarisendi/" target="_blank">
-    <img align="center" alt="Rikky Arisendi | Facebook" width="40px" src="https://icon-library.com/images/facebook-image-icon/facebook-image-icon-15.jpg" />
-  </a>
-
-  <a href="https://instagram.com/rikkyarisendi/" target="_blank">
-    <img align="center" alt="Rikky Arisendi | Instagram" width="40px" src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" />
-  </a>
- </div>
+<code><a href="https://www.linkedin.com/in/rikkyarisendi/" target="_blank"><img align="center" alt="Rikky Arisendi | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a></code>
+<code><a href="https://instagram.com/rikkyarisendi/" target="_blank"><img align="center" alt="Rikky Arisendi | Instagram" width="40px" src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" /></a></code>
+<code><a href="https://facebook.com/rikkyarisendi/" target="_blank"><img align="center" alt="Rikky Arisendi | Facebook" width="40px" src="https://icon-library.com/images/facebook-image-icon/facebook-image-icon-15.jpg" /></a></code>
