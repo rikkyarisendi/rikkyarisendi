@@ -4,12 +4,6 @@
 
 <br>
 
-<div align="center">
-<h3> Graphic Designer | Bandung, Indonesia </h3>
-</div>
-  
-<br>
- 
 ### About Me 
 
 - 💻 I’m currently learning fullstack web development and cryptography stuff
@@ -37,7 +31,7 @@
 | 💻 My Workspace Spec                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 🎧 Spotify Playing                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/nvidia-gtx1050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/windows-asus%20TUF%20fx504-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white"/> | [<img src="https://spotify-github-profile-6d72orq3n.vercel.app/api/spotify" width="900" />](https://open.spotify.com/user/31t2dvnf23ypphm4mu2al7rhjwi4) |
-
+<br />
 
 ### Find Me On
 
