@@ -1,5 +1,5 @@
 <div align="center">
- <h1> Hello There, I'm Rikky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+ <h1> <img src="https://emojis.slackmojis.com/emojis/images/1613285754/12807/meow_attentionreverse.png?1613285754" width="35px">Hello There, I'm Rikky <img src="https://emojis.slackmojis.com/emojis/images/1613285754/12807/meow_attentionreverse.png?1613285754" width="35px"></h1>
 </div>
 
 <br>
@@ -38,6 +38,6 @@
 ### Find Me On
 
 <div align="left">
-<a href="https://www.linkedin.com/in/rikkyarisendi/" target="_blank"><img  alt="Rikky Arisendi | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
+<a href="https://www.linkedin.com/in/rikkyarisendi/" target="_blank"><img  alt="Rikky Arisendi | Linkedin " width="38px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
 <a href="https://instagram.com/rikkyarisendi/" target="_blank"><img alt="Rikky Arisendi | Instagram" width="40px" src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" /></a>
-<a href="https://facebook.com/rikkyarisendi/" target="_blank"><img alt="Rikky Arisendi | Facebook" width="40px" src="https://icon-library.com/images/facebook-image-icon/facebook-image-icon-15.jpg" /></a></div>
+<a href="https://facebook.com/rikkyarisendi/" target="_blank"><img alt="Rikky Arisendi | Facebook" width="38px" src="https://icon-library.com/images/facebook-image-icon/facebook-image-icon-15.jpg" /></a></div>
