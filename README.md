@@ -5,33 +5,13 @@
 <br>
 
 <div align="center">
- <a href="https://www.linkedin.com/in/rikkyarisendi/" target="_blank">
-   <img align="center" alt="Rikky Arisendi | Linkedin " width="30px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
-  
-  <a href="https://facebook.com/rikkyarisendi/" target="_blank">
-    <img align="center" alt="Rikky Arisendi | Facebook" width="30px" src="https://icon-library.com/images/facebook-image-icon/facebook-image-icon-15.jpg" />
-  </a>
-
-  <a href="https://instagram.com/rikkyarisendi/" target="_blank">
-    <img align="center" alt="Rikky Arisendi | Instagram" width="30px" src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" />
-  </a>
- </div>
-
-<br>
-
-<div align="center">
 <h3> Graphic Designer | Bandung, Indonesia </h3>
 </div>
   
- 
 <br>
  
-<div align="center">
- <h2>About Me</h2>
-</div>
+### About Me 
 
-<br>
-  
 - 💻 I’m currently learning fullstack web development and cryptography stuff
 - ⚡️ Dev at <a href="https://www.blueacornici.com/" target="_blank">Blue Acorn iCi</a>.
 - 👨‍💻 Enjoy collaborating on `open source` projects.
@@ -53,3 +33,19 @@
 ![Rikky Arisendi GitHub stats](https://github-readme-stats.vercel.app/api?username=rikkyarisendi&show_icons=true&theme=buefy)
 
 ![Rikky Arisendi Most Used Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rikkyarisendi&layout=compact&theme=buefy)
+
+<br>
+### Find Me On
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/rikkyarisendi/" target="_blank">
+   <img align="center" alt="Rikky Arisendi | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
+  
+  <a href="https://facebook.com/rikkyarisendi/" target="_blank">
+    <img align="center" alt="Rikky Arisendi | Facebook" width="40px" src="https://icon-library.com/images/facebook-image-icon/facebook-image-icon-15.jpg" />
+  </a>
+
+  <a href="https://instagram.com/rikkyarisendi/" target="_blank">
+    <img align="center" alt="Rikky Arisendi | Instagram" width="40px" src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" />
+  </a>
+ </div>
