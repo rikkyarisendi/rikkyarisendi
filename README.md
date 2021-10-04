@@ -6,11 +6,11 @@
 
 ### About Me 
 
+- 🌏 Bandung, Indonesia
+- 📊 Graphic Designer
 - 💻 I’m currently learning fullstack web development and cryptography stuff
-- ⚡️ Dev at <a href="https://www.blueacornici.com/" target="_blank">Blue Acorn iCi</a>.
 - 👨‍💻 Enjoy collaborating on `open source` projects.
-- ✈️ Fun Fact: Love international travel.
-
+- ✈️ Fun Fact: want to traveling around the world
 
 ### Frequently Used Languages and Tools 
 
