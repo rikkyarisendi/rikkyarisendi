@@ -30,9 +30,8 @@
 
 <br>
 
-|                                                                                                                               |                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Rikky Arisendi GitHub stats](https://github-readme-stats.vercel.app/api?username=rikkyarisendi&show_icons=true&theme=buefy) | ![Rikky Arisendi Most Used Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rikkyarisendi&layout=compact&theme=buefy)|
+| ![Rikky Arisendi GitHub stats](https://github-readme-stats.vercel.app/api?username=rikkyarisendi&hide_title=true&show_icons=true&theme=buefy) | ![Rikky Arisendi Most Used Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rikkyarisendi&hide_title=true&layout=compact&theme=buefy)|
 
 
 | 💻 My Workspace Spec                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 🎧 Spotify Playing                                                                                                                                   |
