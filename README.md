@@ -6,14 +6,14 @@
 
 <div align="center">
  <a href="https://www.linkedin.com/in/rikkyarisendi/" target="_blank">
-   <img align="center" alt="John Kirtley | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
+   <img align="center" alt="John Kirtley | Linkedin " width="20px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
   
   <a href="https://twitter.com/johnkirtley_" target="_blank">
-    <img align="center" alt="John Kirtley | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+    <img align="center" alt="John Kirtley | Twitter" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
 
   <a href="https://instagram.com//rikkyarisendi" target="_blank">
-    <img align="center" alt="John Dev Profile" width="41px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkit.com%2Fpng%2Ffull%2F1-13187_instagram-logo-new-vector-eps-free-download-logo.png&f=1&nofb=1" />
+    <img align="center" alt="Rikky Arisendi | Instagram" width="20px" src="https://pngkit.com%2Fpng%2Ffull%2F1-13187_instagram-logo-new-vector-eps-free-download-logo.png&f=1&nofb=1" />
   </a>
  </div>
 
@@ -23,8 +23,11 @@
 <h3> Graphic Designer | Bandung, Indonesia </h3>
 </div>
   
+ 
+<br>
+ 
 <div align="center">
- <h3>About Me</h3>
+ <h2>About Me</h2>
 </div>
 
 <br>
