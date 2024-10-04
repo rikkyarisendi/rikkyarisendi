@@ -41,3 +41,5 @@
 <a href="https://www.linkedin.com/in/rikkyarisendi/" target="_blank"><img  alt="Rikky Arisendi | Linkedin " width="38px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
 <a href="https://instagram.com/rikkyarisendi/" target="_blank"><img alt="Rikky Arisendi | Instagram" width="40px" src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" /></a>
 <a href="https://facebook.com/rikkyarisendi/" target="_blank"><img alt="Rikky Arisendi | Facebook" width="38px" src="https://icon-library.com/images/facebook-image-icon/facebook-image-icon-15.jpg" /></a></div>
+
+[![An image of @rikkyarisendi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rikkyarisendi)](https://holopin.io/@rikkyarisendi)
